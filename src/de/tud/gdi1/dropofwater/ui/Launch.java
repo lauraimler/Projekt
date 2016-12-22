@@ -8,7 +8,7 @@ import org.newdawn.slick.state.StateBasedGame;
 import eea.engine.entity.StateBasedEntityManager;
 
 /**
- * @author Timo Bähr
+ * @author Laura Imler, Bettina BallinD
  *
  * Diese Klasse startet das Spiel "Drop of Water". Es enthaelt
  * zwei State's für das Menue und das eigentliche Spiel.
